@@ -1,8 +1,8 @@
 # ESP-12 BREAKOUT
 
-* Breadbaord friendly
-* Very detailed, informative
-* ESP-12 - F, E, S compatible
+* Breadbaord friendly.
+* Very detailed, informative.
+* ESP-12 - F, E, S compatible.
 
 ## Top Side
 ![alt text](top.png)
