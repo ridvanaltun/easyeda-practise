@@ -1,9 +1,6 @@
 # HM-10-BREAKOUT
-A breadbaord friendly HM-10 Breakout
-* Breadbaord friendly
-* It based on EasyEda
-* Very detailed, informative
-* CC254X's pin names included to the bottom layer
+
+A breadbaord friendly HM-10 Breakout.
 
 ## Top Side
 ![alt text](top.png)

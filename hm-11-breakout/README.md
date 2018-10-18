@@ -1,10 +1,5 @@
 # HM-11-BREAKOUT
 
-* Breadbaord friendly
-* It based on EasyEda
-* Very detailed, informative
-* CC254X's pin names included to the bottom layer
-
 ## Top Side
 ![alt text](top.png)
 

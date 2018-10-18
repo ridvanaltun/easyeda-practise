@@ -1,7 +1,8 @@
 # Attiny-HVSP
-fuse doctor for attiny
-* version-0.1
-* it supports  Attiny 13/25/45/85.
+
+Fuse doctor for Attiny MCU Family.
+
+* It supports:  Attiny 13/25/45/85.
 
 ## Top Side::version-0.1
 ![alt text](top.png)
